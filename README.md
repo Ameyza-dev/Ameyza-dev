@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://tu-enlace-de-la-imagen-de-fondo.png" width="100%" alt="Amairany Meza Banner">
+<img src="![Banner](https://github.com/user-attachments/assets/a26e942e-909e-465e-8e34-a495d833fa48)" width="100%" alt="Amairany Meza Banner">
 
 # 👋 Hola, soy Amairany Meza Vilorio
 ### Software Engineer | Frontend Engineer | Mobile UX/UI Architect 🚀
@@ -61,13 +61,6 @@ Soy una **Ingeniera de Software** apasionada por el desarrollo de aplicaciones w
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 📈 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=light&title_color=0077B5&icon_color=0077B5&text_color=333" alt="Estadísticas de Amairany" />
 </p>
 
 ---
