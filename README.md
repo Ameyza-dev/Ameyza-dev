@@ -1,41 +1,87 @@
 <div align="center">
 
-<img src="https://tu-enlace-de-la-imagen-de-fondo.png" width="100%" alt="Banner Amairany Meza">
+<img src="https://tu-enlace-de-la-imagen-de-fondo.png" width="100%" alt="Amairany Meza Banner">
 
-# Amairany Meza Vilorio
-
-### Frontend Engineer | Mobile UX/UI Architect
-
----
+# 👋 Hola, soy Amairany Meza Vilorio
+### Software Engineer | Frontend Engineer | Mobile UX/UI Architect 🚀
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-amairany.meza--vilorio3@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  <br>
   <a href="https://www.linkedin.com/in/amairany-meza-vilorio-aa1626388">
-    <img src="https://img.shields.io/badge/LinkedIn-in/amairany--meza--vilorio--aa1626386-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:amairany.meza.vilorio3@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
+---
+
 </div>
+
+## 👤 Sobre Mí
+
+Soy una **Ingeniera de Software** apasionada por el desarrollo de aplicaciones web y móviles. Mi enfoque principal es la creación de interfaces de usuario intuitivas y arquitecturas robustas que resuelvan problemas reales mediante código limpio y mantenible.
+
+- 🔭 **Actualmente trabajando en:** Soluciones de software escalables y arquitecturas orientadas a la experiencia del usuario.
+- 🎨 **Especialidad:** Diseño de interfaces (UI) y optimización de flujos de usuario (UX).
+- 🐧 **Entorno de trabajo:** Desarrollo en entornos ágiles bajo la metodología **Scrum** y **Kanban**.
+- 💡 **Filosofía:** Priorizo la **Clean Architecture** y los patrones de diseño como **MVC** para crear sistemas fáciles de escalar.
 
 ---
 
-### 👤 Sobre mí
-Soy una **Frontend Engineer** especializada en el desarrollo de interfaces intuitivas y arquitectura **Mobile UX/UI**. Me apasiona crear experiencias digitales accesibles y eficientes.
+## 🛠️ Tech Stack (Habilidades Técnicas)
 
-* 🚀 Actualmente trabajando en soluciones enfocadas a la experiencia de usuario.
-* 🎨 Entusiasta del diseño limpio y funcional.
-* 💻 Dominio de tecnologías web modernas y desarrollo móvil.
-
-### 🛠️ Tecnologías
+### 📱 Mobile & Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+### 🗄️ Bases de Datos & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
+
+## 📈 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=light&title_color=0077B5&icon_color=0077B5&text_color=333" alt="Estadísticas de Amairany" />
+</p>
+
+---
+
+## 🚀 Metodologías y Principios de Ingeniería
+- **POO:** Programación Orientada a Objetos avanzada.
+- **MVC:** Arquitectura de software Modelo-Vista-Controlador.
+- **Agile:** Gestión eficiente de tareas mediante metodologías ágiles.
+- **Clean Code:** Escritura de código legible y testeable.
+
+---
+
 <div align="center">
-  <i>"El diseño no es solo lo que se ve, sino cómo funciona."</i>
+  <i>"El código es poesía cuando la arquitectura es sólida."</i>
+  <br>
+  <b>Amairany Meza Vilorio | 2026</b>
 </div>
