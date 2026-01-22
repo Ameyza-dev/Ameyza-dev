@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://drive.google.com/file/d/1HSBHBhTje5Wh6aXgR74_pqlfl7mj8mha/view?usp=sharing" width="100%" alt="Amairany Meza Banner">
+<img src="https://github.com/Ameyza-dev/Ameyza-dev/blob/main/Banner.jpeg" width="100%" alt="Amairany Meza Banner">
 
 # 👋 Hi there, I'm Amairany Meza Vilorio
 
