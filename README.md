@@ -10,12 +10,12 @@
 *Passionate about creating engaging and accessible digital experiences through agile development.*
 
 <p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amairany.meza.vilorio3@gmail.com&su=Contacto%20desde%20GitHub">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
   <a href="https://www.linkedin.com/in/amairany-meza-vilorio-aa1626388">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
- 
-  <a href="mailto:amairany.meza.vilorio3@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
